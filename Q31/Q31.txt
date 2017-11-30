@@ -1,0 +1,1 @@
+Write a function that accepts a sequence four bits and returns (via an appropriately constructed object) the octal, decimal and hexadecimal values encoded by the bits.

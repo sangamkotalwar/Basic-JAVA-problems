@@ -1,0 +1,1 @@
+Write a program which reads a number with a decimal point, and prints the number of digits before and after the decimal point. Modify your program so that it reports the fractional part of the number as being greater than 0.5, equal to 0.5, or less than 0.5.

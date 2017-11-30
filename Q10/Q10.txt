@@ -1,0 +1,1 @@
+Compound interest is calculated using the formula A = P ( 1 + R / 100.0)T, where the symbols have their usual meanings. The interest at the end of T years is A – P. Suppose a fixed deposit is opened with a principal of Rs. 525000 @ 8.5% compound interest for 10 years. Print a table showing the interest accruing at the end of each year.

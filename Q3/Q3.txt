@@ -1,0 +1,1 @@
+Write a program which prints the number 9 nine times in the first row, the number 8 eight times in the second row, the number 7 seven times in the third row, and so on down to 1, which it prints once

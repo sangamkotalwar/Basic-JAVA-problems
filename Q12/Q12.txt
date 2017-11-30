@@ -1,0 +1,1 @@
+Two int arrays of dimension 20 are filled with non-zero integer numbers. Write a program which determines how many numbers are common to both arrays.

@@ -1,0 +1,1 @@
+Write a function which accepts a date String such as “2-05-1949” and returns a String which contains the month number instead of the month name: 2 May 1949.

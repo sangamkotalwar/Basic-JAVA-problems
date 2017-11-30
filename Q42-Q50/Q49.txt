@@ -1,0 +1,4 @@
+Consider the following statements: 1) Integer x = 5; 2) Integer y = 5;
+Then the expression x == y returns: A) true B) false
+
+TRUE

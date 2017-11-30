@@ -1,0 +1,1 @@
+A string and two different ints i, j (>= 0) are passed to a function. The function returns the string formed by interchanging the characters at the ith and jth positions in the string.

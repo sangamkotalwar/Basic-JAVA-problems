@@ -1,0 +1,1 @@
+A string (for example a sentence such as “the quick brown fox jumps over the lazy dog”) is passed in the command line of an executing program. The program prints the longest word (or words) in the sentence.

@@ -1,0 +1,1 @@
+Write a function void splitter (String str) which accepts a string comprising an even number of characters, and returns on object built of two strings formed from the given string by splitting it in the middle.

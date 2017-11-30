@@ -1,0 +1,1 @@
+Write a program which asks the user for a positive int “n” to be read from the keyboard, allocates space for “n” ints, and fills this space with the first “n” odd numbers.

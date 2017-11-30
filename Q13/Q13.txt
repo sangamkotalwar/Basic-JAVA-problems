@@ -1,0 +1,1 @@
+Two int arrays of dimension 20 are filled with non-zero integer numbers. Write a program which creates an array of dimension 40, and loads it alternately with numbers from each array.

@@ -1,0 +1,3 @@
+Consider the polynomial:
+Z = X4 + X3Y + X2Y2 + XY3 + Y4
+Write a Java program that prints values of Z for X on the interval [-3, 4] and Y on the interval [-5, 6]. X and Y are incremented in steps of 0.1 and 0.2 respectively. Your program should output the maximum and minimum values of Z.

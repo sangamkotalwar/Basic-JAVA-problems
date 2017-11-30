@@ -1,0 +1,1 @@
+Write a program which accepts three integers a, b and c which may be negative or positive. Your program should return the roots of the quadratic equation with coefficients a, b and c, stating clearly if the roots are real, distinct, or imaginary.

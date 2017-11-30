@@ -1,0 +1,1 @@
+Write a Java program which does the following: A string is passed to a function. The function returns the string formed by removing its last character and placing it at the front of the string.

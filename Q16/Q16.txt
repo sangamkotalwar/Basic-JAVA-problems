@@ -1,0 +1,1 @@
+Write a program to read a string consisting only of lowercase letters and spaces. The program then replaces each letter by the next letter in the alphabet, thus: a -> b, b -> c, c -> d … z -> a.

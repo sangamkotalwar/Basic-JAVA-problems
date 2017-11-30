@@ -1,0 +1,1 @@
+Write a program which reads six ints a, b, c and d, e, f. Now consider the two straight lines with equations: ax + by = c and dx + ey = f. Your program should report whether the lines are parallel, co-incident or intersecting. If they intersect, print the intersection point.

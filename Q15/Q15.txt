@@ -1,0 +1,1 @@
+Write a program to read a string of length “n” characters from the keyboard, where n is arbitrary but less than 50. The program then asks the user to input a number less than n, say “m”. The program then prints the same string with the mth character deleted.

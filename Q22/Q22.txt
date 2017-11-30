@@ -1,0 +1,1 @@
+Write a program which calls a function with parameter pointer to int which accepts an array of 50 marks, and returns the array sorted in descending order

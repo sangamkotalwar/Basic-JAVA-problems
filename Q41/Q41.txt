@@ -1,0 +1,1 @@
+Write a Java Program to find the sum of digits in the expansion of 4444^4444.

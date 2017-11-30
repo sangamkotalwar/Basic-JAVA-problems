@@ -1,0 +1,1 @@
+Write a Boolean function which accepts a date String such as “2-05-1949” and returns true if the date is valid, false if otherwise. For a valid date use Zeller’s congruence to return the day of the week which falls on the given date. (Look up Zeller’s congruence in Wikipedia or elsewhere.)

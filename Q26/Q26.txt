@@ -1,0 +1,1 @@
+A leap year is defined as a year which is divisible by 4 and not divisible by 100, or which is divisible by 400. Write a function int days (int dd, int mm, int yy) returns the number of days from January 1 up to the (and including) the date passed. (Your program should work for both leap and non-leap years.)

@@ -1,0 +1,1 @@
+Write a program which prints all the integers from 1 to 1001, except those which are multiples of 7 or 11.

@@ -1,0 +1,1 @@
+Write a program which accepts three positive doubles from the keyboard, decides if they can form the sides of a triangle, and then returns the three angles of the triangle. [Use the cosine formula: a2 = b2 + c2 – 2bc CosA.]

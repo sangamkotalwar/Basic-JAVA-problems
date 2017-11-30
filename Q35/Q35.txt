@@ -1,0 +1,4 @@
+A string of arbitrary length and consisting only of the digits 0, 1, 2, 3, …, 9 is given to you, for example:
+“75439753092765489190547814692984638544009852136754709814903”
+An int array numbersOfDigits [10] is also given. Write a program which populates the array with the number of 0’s 1’s, 2’s etc. present in the string. Thus numbersOfDigits [9] is 7, because 7 9’s are present, and numbersOfDigits [7] is 6 because 6 7’s are present.
+Use your array to find the sum of the digits present in the string.

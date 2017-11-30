@@ -1,0 +1,1 @@
+Write a program which reads int numbers entered from the keyboard, one number per line, until a negative number is entered. Your program should print the largest and smallest values entered, as well as the average of the even numbers, and the average of the odd numbers.

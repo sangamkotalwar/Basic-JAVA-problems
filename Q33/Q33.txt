@@ -1,0 +1,1 @@
+Write a function void splitter (int x) which accepts an int comprising of an even number of eight or fewer digits, and returns an object comprised of two ints formed by splitting it in the middle.

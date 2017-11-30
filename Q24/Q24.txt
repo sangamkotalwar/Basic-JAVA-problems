@@ -1,0 +1,1 @@
+Write a program in which the string “Now I know a spell unfailing” is given in the command line of an executing program. The program types the following digits when <Enter> is pressed “314159”. Here each separate digit is the number of letters in consecutive words of the string.

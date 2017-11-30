@@ -1,0 +1,11 @@
+The marks of students in a College exam are listed in a file called marks.dat. One line contains one mark, ranging between 0 and 100.
+Test scores are assigned as follows:
+Marks >= 90 A 
+80 <= Marks < 90 B 
+65 <= Marks < 80 C 
+50 <= Marks < 65 D 
+Marks < 50 F 
+Write a Java program which reads the file marks.dat, and reports:
+ 1) The number of students who received A, B, C, D and F grades, respectively.
+2) The percentage of students receiving each letter grade.
+Test your program by creating a 30-line test file containing 30 marks between 0 – 100.

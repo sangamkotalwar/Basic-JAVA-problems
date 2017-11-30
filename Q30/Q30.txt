@@ -1,0 +1,1 @@
+An int array of dimension 20 contains only the ints 0 or 1 in its 20 elements. The array is passed by main () to a function int decimalValue (int [] array). The function returns the decimal value of the number formed by the ordered sequence of the binary digits in the array.

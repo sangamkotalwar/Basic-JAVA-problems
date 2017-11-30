@@ -1,0 +1,1 @@
+Write a program which prompts the user to enter a single digit from the keyboard, for example 7. main () passes this digit to a function void doIt (int sum). This function sets the string to “seven” and the value of sum to 28, being the sum of the first 7 numbers (1 + 2 + 3 + 4 + 5 + 6 + 7).

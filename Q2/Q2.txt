@@ -1,0 +1,1 @@
+Write a Java program to find the number of terminal zeroes and the number of digits in the expansion of 1001! (1001 factorial).

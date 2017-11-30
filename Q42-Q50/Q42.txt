@@ -1,0 +1,21 @@
+Here are two versions of a simple program. Which one of these will compile without error? Remember, x is an int.
+public class TestVersion1
+{
+public static void main (String [] args)
+{
+int x = 5.5;
+x += 3.7;
+System.out.println (x);
+}
+}
+public class TestVersion2
+{
+public static void main (String [] args)
+{
+int x = 5;
+x += 3.7;
+System.out.println (x);
+}
+}
+
+Answer: 2

@@ -1,0 +1,1 @@
+Write a program to read int numbers, one per line, until a negative number is entered. Your program should print the average of the even numbers and the average of the odd numbers.

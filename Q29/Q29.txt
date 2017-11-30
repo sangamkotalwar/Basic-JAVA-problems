@@ -1,0 +1,1 @@
+Write a program to determine if a string of letters and digits (length <= 5) which is read in can comprise a hexadecimal number. If so, the program should return the decimal value of the number.

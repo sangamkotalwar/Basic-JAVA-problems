@@ -1,0 +1,1 @@
+An arbitrary number of doubles is typed on the command line of an executing program. The program reports the average of the numbers passed, as well as the largest and the smallest of the numbers.

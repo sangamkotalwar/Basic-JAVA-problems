@@ -1,0 +1,5 @@
+What is the value of x after each of the following statements is executed?
+int x = (int) 1.8; 
+int x = Math.round (1.8);
+
+Answer: 1st

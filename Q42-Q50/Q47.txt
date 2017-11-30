@@ -1,0 +1,8 @@
+Which of the following statements is in error? 
+A) Integer x = new Integer (5); 
+B) Integer y = new Integer ("5"); 
+C) Integer z = 5; 
+D) Integer w = new Integer (); 
+E) More than one statement is in error.
+
+Answer C
